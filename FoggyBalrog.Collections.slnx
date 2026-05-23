@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FoggyBalrog.Collections.Benchmarks/FoggyBalrog.Collections.Benchmarks.csproj" />
+  <Project Path="FoggyBalrog.Collections.UnitTests/FoggyBalrog.Collections.UnitTests.csproj" />
+  <Project Path="FoggyBalrog.Collections/FoggyBalrog.Collections.csproj" />
+</Solution>
